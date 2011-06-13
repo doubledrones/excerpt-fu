@@ -8,6 +8,6 @@ group :development do
 end
 
 group :test do
-  gem 'rspec'
+  gem 'rspec', '1.3.2'
   gem 'ZenTest'
 end
